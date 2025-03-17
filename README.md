@@ -19,3 +19,6 @@ Transformed Data Storage (Azure Data Lake Gen2) → Save processed data for furt
 Analytics & Processing (Azure Synapse Analytics) → Perform advanced data analysis.
 
 Visualization & Reporting (Power BI, Tableau, Looker Studio) → Create interactive dashboards.
+
+
+![Uploading image.png…]()
